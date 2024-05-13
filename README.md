@@ -18,8 +18,8 @@ De início fui efetuar pesquisas sobre Strings em Java (que fez parte da minha f
 
 ## 🚀 Resultados
 ### Coloco aqui os links do ebook concluido, e também dos prompts que utilizei.
-- [Ebook](https://chat.openai.com/) 
-- [Prompts](https://chat.openai.com/) 
+- [Ebook](https://github.com/rickzferry/ebook-natty-or-not-DIO/blob/main/output/ebook-natty-or-not-DIO.pdf) 
+- [Prompts](https://github.com/rickzferry/ebook-natty-or-not-DIO/blob/main/prompt/prompt.txt) 
 
 
 ## 💭 Reflexão (Opcional)
