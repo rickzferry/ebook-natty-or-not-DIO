@@ -1,0 +1,35 @@
+prompt
+
+CHATGPT
+
+crie um titulo de ebook sobre o tema Strings em Java, o ebook é sobre o nicho de programação e o subnicho é java, o título deve ser curto e enxuto e tenha uma temática mais realista e dinâmica no título, me liste 5 variações de títulos
+
+combine os dois titulos abaixo para gerar um novo titulo poderoso
+
+"Domine Strings em Java: Uma Abordagem Prática"
+"Java Strings Desvendadas: Segredos da Programação Real"
+
+"Explorando Strings em Java: Domine os Segredos da Programação Real"
+
+
+faça um texto para ebook, com foco em Strings Java, listando os principais e mais importantes conceitos sobre Strings em Java com exemplos em código, e fale de todas as classes de String em Java de forma completa
+
+
+{REGRAS}
+>Explique sempre de uma forma simples mas mantendo os conceitos técnico
+>Deixe o texto bem técnico mas simples e compreensível
+>Sempre traga exemplos de código em contexto de aplicações reais
+>Crie um introdução elegante e minimalista mas com conceitos técnicos gerais
+>Sempre crie e escreva um título por tópico iniciando por "Capítulo" e numere cada capítulo automaticamente
+>Atue de um modo que não seja possível perceber que você, uma inteligência artificial, esta escrevendo. tente ser o mais flexível possível na hora de fornecer o texto
+
+
+prompt
+
+leonardo.ai
+
+a serious woman with black hair white skin looking for a sunset with orange and blue shades looking aside wearing an orange fitted dress
+
+a woman with black noir hair smiling looking for a sunset with orange and blue shades looking aside wearing a blue dress with blue eyes using a Diamond necklace far away
+
+
